@@ -1,0 +1,12 @@
+{
+  "name": "GlobalGivingToken",
+  "symbol": "GGT",
+  "description": "A global public welfare token based on blockchain technology",
+  "image": "https://raw.githubusercontent.com/devxiatian/projf/refs/heads/main/ggt.png",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Developer Portal"
+    }
+  ]
+}
